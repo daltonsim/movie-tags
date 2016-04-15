@@ -8,3 +8,8 @@ Data Sources:
 
   MovieLens Latest Datasets
   http://grouplens.org/datasets/movielens/
+
+
+601 Project: Movies We Like - User Content Tagging Among IMDB’S Top 250 Movies
+
+618 Project: What Kind of Movie is It? An Exploration of Movie Genre Categorizations
